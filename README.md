@@ -17,5 +17,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Desenvolver é uma arte!
+![Snake animation](https://github.com/CassiaSantos/CassiaSantos/blob/output/github-contribution-grid-snake.svg)
 
 #### Email para contato: cassia.oliveira.profissional@gmail.com

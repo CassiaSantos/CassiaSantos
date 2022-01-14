@@ -19,5 +19,4 @@
 Desenvolver é uma arte!
 
 #### Email para contato: cassia.oliveira.profissional@gmail.com
-
 ![Snake animation](https://github.com/CassiaSantos/CassiaSantos/blob/output/github-contribution-grid-snake.svg)

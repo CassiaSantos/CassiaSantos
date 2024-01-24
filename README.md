@@ -1,5 +1,5 @@
 ### Olá, eu sou Cássia Santos! 👋🏼 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassiasantos_05/) 
+<!--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassiasantos_05/) -->
 
 ![CassiaSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CassiaSantos&show_icons=true&theme=highcontrast)
 
